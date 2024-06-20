@@ -1,6 +1,6 @@
 #!/bin/bash
 export PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
-resName="wyx176"
+resName="plutoIces"
 versionFile=/etc/opt/ss5/version.txt
 
 checkup(){
